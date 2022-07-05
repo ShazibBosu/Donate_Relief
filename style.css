@@ -17,7 +17,7 @@ body {
   font-weight: 700;
   color: aliceblue;
 }
-#top-link {
+.top-link {
   text-decoration: none;
   background-image: linear-gradient(tomato, tomato);
   border-radius: 5px;
@@ -37,4 +37,71 @@ body {
   background-size: cover;
   height: 450px;
   width: 100%;
+}
+.second-header {
+  margin-top: 100px;
+  text-align: center;
+  font-size: 50px;
+  font-weight: 700;
+  margin-bottom: 20px;
+}
+.second-paragraph {
+  text-align: center;
+  font-weight: 700;
+}
+.boxes {
+  display: flex;
+  gap: 20px;
+  margin-left: 32%;
+  margin-bottom: 60px;
+}
+#one {
+  background-color: rgba(138, 135, 135, 0.096);
+  padding: 40px 20px;
+  border: 2px;
+  border-color: black;
+  border-radius: 5px;
+}
+#two {
+  background-color: rgba(138, 135, 135, 0.096);
+  padding: 40px 20px;
+  border: 2px solid rgb(223, 92, 114);
+  border-radius: 5px;
+  color: rgb(223, 92, 114);
+}
+#three {
+  background-color: rgba(138, 135, 135, 0.096);
+  padding: 40px 20px;
+  border: 2px;
+  border-color: black;
+  border-radius: 5px;
+}
+#four {
+  background-color: rgba(138, 135, 135, 0.096);
+  padding-top: 39px;
+  padding-left: 15px;
+  padding-right: 15px;
+  border: 2px;
+  border-color: black;
+  border-radius: 5px;
+}
+#five {
+  background-color: rgba(138, 135, 135, 0.096);
+  padding-top: 39px;
+  padding-left: 15px;
+  padding-right: 15px;
+  border: 2px;
+  border-color: black;
+  border-radius: 5px;
+}
+.button {
+  width: 40%;
+  height: 40px;
+  border-top: 0;
+  border-left: 0;
+  border-right: 0;
+  margin-left: 410px;
+  margin-bottom: 40px;
+  text-align: center;
+  font-size: larger;
 }
