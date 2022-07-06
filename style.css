@@ -14,7 +14,7 @@ body {
 /* top banner img design */
 .top-banner {
   background-image: url(images/donation1.jpg);
-  opacity: 300;
+  opacity: 1;
   background-repeat: no-repeat;
   background-position: center center fixed;
   background-size: cover;
@@ -155,7 +155,7 @@ body {
 /* food for family box content design */
 #food {
   padding-top: 30px;
-  padding-left: 20px;
+  padding-left: 50px;
   background-image: linear-gradient(
     rgba(122, 122, 214, 0.267),
     rgba(122, 122, 214, 0.267)
@@ -165,7 +165,7 @@ body {
 /* Shelter for a family box content design */
 #shelter {
   padding-top: 30px;
-  padding-left: 20px;
+  padding-left: 50px;
   background-image: linear-gradient(
     rgba(131, 131, 93, 0.288),
     rgba(131, 131, 93, 0.288)
@@ -175,7 +175,7 @@ body {
 /*Education for a child box content design */
 #education {
   padding-top: 30px;
-  padding-left: 20px;
+  padding-left: 50px;
   padding-right: 60px;
   padding-bottom: 40px;
   background-image: linear-gradient(
