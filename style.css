@@ -105,3 +105,89 @@ body {
   text-align: center;
   font-size: larger;
 }
+.content-boxes {
+  display: flex;
+  margin-top: 40px;
+}
+.Boxy {
+  width: 30%;
+  margin: 5%;
+  padding-left: 5%;
+  padding-right: 5%;
+}
+#food {
+  padding-top: 30px;
+  padding-left: 20px;
+  background-image: linear-gradient(
+    rgba(122, 122, 214, 0.267),
+    rgba(122, 122, 214, 0.267)
+  );
+  text-align: justify;
+}
+#shelter {
+  padding-top: 30px;
+  padding-left: 20px;
+  background-image: linear-gradient(
+    rgba(131, 131, 93, 0.288),
+    rgba(131, 131, 93, 0.288)
+  );
+  text-align: justify;
+}
+#education {
+  padding-top: 30px;
+  padding-left: 20px;
+  padding-right: 60px;
+  padding-bottom: 40px;
+  background-image: linear-gradient(
+    rgba(194, 133, 144, 0.432),
+    rgba(194, 133, 144, 0.432)
+  );
+  text-align: justify;
+}
+.contnent-four {
+  display: flex;
+}
+.content-notes {
+  width: 50%;
+}
+#header-note {
+  font-size: 50px;
+  font-weight: 700;
+  margin-left: 70px;
+  margin-top: 100px;
+}
+#para-note {
+  margin-left: 70px;
+  margin-right: 50px;
+  margin-bottom: 40px;
+  text-align: justify;
+}
+.img-content {
+  width: 450px;
+  height: 450px;
+  margin-top: 100px;
+  margin-left: 70px;
+}
+#mid-link {
+  text-decoration: none;
+  background-image: linear-gradient(tomato, tomato);
+  border-radius: 5px;
+  padding: 10px;
+  font-size: larger;
+  font-weight: 700;
+  font-family: "Courier New", Courier, monospace;
+  font-style: normal;
+  color: antiquewhite;
+  margin-left: 70px;
+}
+#header-five {
+  margin-top: 100px;
+  margin-left: 70px;
+  font-size: 50px;
+  font-weight: 700;
+}
+#para-five {
+  margin-left: 70px;
+  text-align: justify;
+  margin-bottom: 40px;
+}
